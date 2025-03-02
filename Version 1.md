@@ -2,12 +2,12 @@
 Dec 1991 - July 1993
 
 # Exterior
-![[version1_front2.jpg]]
-![[version1_rear2.jpg]]
+![Version 1 front](/variants/version1_front2.jpg)
+![Version 1 rear](/variants/version1_rear2.jpg)
 
 # Interior
-![[version1_interior1.jpg]]
-![[version1_interior2.jpg]]
+![](/variants/version1_interior1.jpg)
+![](/variants/version1_interior2.jpg)
 
 # Trims
 * Type S
